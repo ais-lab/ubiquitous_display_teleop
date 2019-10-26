@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ubiquitous_display_teleop" type="keyboard_teleop.py" name="ubiquitous_display_keyboard_teleop"  output="screen">
+  </node>
+</launch>
